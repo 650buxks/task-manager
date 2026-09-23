@@ -1,0 +1,6 @@
+user.txt
+tasks.txt
+task_overview.txt
+user_overview.txt
+__pycache__/
+.DS_Store
